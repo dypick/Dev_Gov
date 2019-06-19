@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/app_name">
+        <Preference
+            android:key="map_test"
+            android:title="@string/map">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="@string/package_name"
+                android:targetClass="com.example.devgovappeal.MapActivity" />
+        </Preference>
+        <Preference
+            android:key="mapobjects_test"
+            android:title="@string/mapobjects">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="@string/package_name"
+                android:targetClass="com.example.devgovappeal.MapObjectsActivity" />
+        </Preference>
+

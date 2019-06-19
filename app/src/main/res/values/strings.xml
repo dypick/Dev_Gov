@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DevGovAppeal</string>
+    <string name="user_location">User Location</string>
+    <string name="mapobjects">Map Objects</string>
+    <string name="custom_layer">Custom Layer</string>
+
+    <string name="package_name">com.example.devgovappeal</string>
 </resources>

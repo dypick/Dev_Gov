@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.014075,
+          36.148
+        ]
+      },
+      "properties": {
+        "objType": "1",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_yards'>Благоустройство дворов</div><div class='baloon__address'>ул. Рощинская, 13а</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Ремонт дворовой территории и проезда, установка скамеек и урн для мусора, обеспечение освещения дворовой территории.</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#00c09a"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.010651,
+          36.13166
+        ]
+      },
+      "properties": {
+        "objType": "1",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_yards'>Благоустройство дворов</div><div class='baloon__address'>ул. Раздольная, 68б</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Ремонт дворовой территории и проезда, установка скамеек и урн для мусора, обеспечение освещения дворовой территории.</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#00c09a"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.009454,
+          36.128471
+        ]
+      },
+      "properties": {
+        "objType": "1",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_yards'>Благоустройство дворов</div><div class='baloon__address'>ул. Бурова, 36</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Ремонт дворовой территории и проезда, установка скамеек и урн для мусора, обеспечение освещения дворовой территории.</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#00c09a"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.964942,
+          36.059768
+        ]
+      },
+      "properties": {
+        "objType": "1",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_yards'>Благоустройство дворов</div><div class='baloon__address'>ул. 7 Ноября, 9</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Ремонт дворовой территории и проезда, установка скамеек и урн для мусора, обеспечение освещения дворовой территории.</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#00c09a"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.964128,
+          36.064134
+        ]
+      },
+      "properties": {
+        "objType": "2",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_overhauling'>Капитальный ремонт домов</div><div class='baloon__address'>7 Ноября, 3</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Капитальный ремонт инженерных систем, крыш, фасада, подвальных помещений</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#e43936"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.964161,
+          36.063792
+        ]
+      },
+      "properties": {
+        "objType": "2",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_overhauling'>Капитальный ремонт домов</div><div class='baloon__address'>7 Ноября, 5</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Капитальный ремонт инженерных систем, крыш, фасада, подвальных помещений</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#e43936"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.967968,
+          36.056202
+        ]
+      },
+      "properties": {
+        "objType": "2",
+        "balloonContentHeader": "<div class='baloon__header'><div class='baloon__label baloon__label_type_overhauling'>Капитальный ремонт домов</div><div class='baloon__address'>7 Ноября, 28</div></div>",
+        "balloonContentBody": "<div class='baloon__body'><div class='baloon__subheader'>Капитальный ремонт инженерных систем, крыш, фасада, подвальных помещений</div><div class='baloon__term'><span class='baloon__term-label'>Срок:</span><span class='baloon__term-year'>до конца 2019 года</span></div></div>"
+      },
+      "options": {
+        "preset": "islands#dotIcon",
+        "iconColor": "#e43936"
+      }
+    }
+  ]
+}

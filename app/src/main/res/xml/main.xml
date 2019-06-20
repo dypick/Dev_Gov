@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/app_name">
+        <Preference
+            android:key="activity_map"
+            android:title="@string/activity_map">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="@string/package_name"
+                android:targetClass="com.example.devgovappeal.MapActivity" />
+        </Preference>
+        <Preference
+            android:key="activity_map_objects"
+            android:title="@string/activity_map_objects">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="@string/package_name"
+                android:targetClass="com.example.devgovappeal.MapObjectsActivity" />
+        </Preference>
+        <Preference
+            android:key="geo_json_test"
+            android:title="@string/activity_geo_json">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="@string/package_name"
+                android:targetClass="com.example.devgovappeal.GeoJsonActivity" />
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

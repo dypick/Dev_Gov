@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="map">Map</string>/string
+    <string name="geo_json">Geo JSON</string>
     <string name="app_name">DevGovAppeal</string>
+    <string name="package_name">com.example.devgovappeal</string>
 </resources>

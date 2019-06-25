@@ -11,14 +11,5 @@
                 android:targetPackage="@string/package_name"
                 android:targetClass="com.example.devgovappeal.MapActivity" />
         </Preference>
-        <Preference
-            android:key="geo_json"
-            android:title="@string/geo_json">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:targetPackage="@string/package_name"
-                android:targetClass="com.example.devgovappeal.GeoJsonActivity" />
-        </Preference>
-
-    </PreferenceCategory>
+        </PreferenceCategory>
 </PreferenceScreen>

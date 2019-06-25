@@ -73,7 +73,7 @@ public class MapActivity extends Activity {
             @NonNull
             @Override
             public String formatUrl(@NonNull String s) {
-                return String.format("https://raw.githubusercontent.com/dypick/Dev_Gov/master/app/src/main/%s", s);
+                return String.format("https://raw.githubusercontent.com/dypick/Dev_Gov/test/app/src/main/%s", s);
                 }
         };
 

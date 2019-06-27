@@ -73,7 +73,7 @@ public class MapActivity extends Activity {
             @NonNull
             @Override
             public String formatUrl(@NonNull String s) {
-                return String.format("https://raw.githubusercontent.com/dypick/Dev_Gov/geo-issue/app/src/main/%s", s);
+                return String.format("https://raw.githubusercontent.com/dypick/Dev_Gov/7da4207176f9df38e60f1121552c93c1eb93aefe/app/src/main/%s", s);
             }
         };
 
@@ -103,7 +103,7 @@ public class MapActivity extends Activity {
     {
         final StringBuilder builder = new StringBuilder();
         final int resourceIdentifier =
-                getResources().getIdentifier("geojson","raw", getPackageName());
+                getResources().getIdentifier("geo_json_example","raw", getPackageName());
         InputStream is = getResources().openRawResource(resourceIdentifier);
         BufferedReader reader = new BufferedReader(new InputStreamReader(is));
 

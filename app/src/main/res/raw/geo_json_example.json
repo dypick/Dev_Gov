@@ -57,7 +57,7 @@
                 {
                   "point": {
                     "icon": {
-                      "id": "res/drawable/icon.png"
+                      "id": "res/drawable/point.png"
                     },
                     "anchorX": 1.0,
                     "anchorY": 1.0
